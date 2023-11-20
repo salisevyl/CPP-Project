@@ -2,5 +2,5 @@
 
 using namespace std;
 int main() {
-	cout << "This is my POO Project!";
+	cout << "This is my POO Project!"<<endl;
 }
